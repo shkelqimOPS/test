@@ -1,0 +1,3 @@
+[submodule "subMod"]
+	path = subMod
+	url = https://github.com/shkelqimOPS/subMod
